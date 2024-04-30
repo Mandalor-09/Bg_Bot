@@ -1,0 +1,11 @@
+huggingface_hub
+ipython
+langchain
+transformers
+accelerate
+pandas
+numpy
+datasets
+streamlit
+bitsandbytes
+"unsloth @ git+https://github.com/unslothai/unsloth.git"
