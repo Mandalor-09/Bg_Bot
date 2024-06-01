@@ -41,9 +41,18 @@ def input_prompt(product_details,question):
 """
     return alpaca_prompt
 
+def input_prompt2(question):
+    alpaca_prompt = f"""
+### Instruction : Help user to solve is query just generate response
+### Previous conversation: :{chat_history}
+### Input : {question}
+### Response : 
+"""
+    return alpaca_prompt
+
 def get_response_from_model(tokenizer,model,alpaca_prompt):
     inputs = tokenizer(alpaca_prompt, return_tensors="pt").input_ids
-    outputs = model.generate(inputs,max_new_tokens=200,min_new_tokens=50)
+    outputs = model.generate(inputs,max_new_tokens=200,do_sample=False,max_length=300,min_new_tokens=50)
     response = tokenizer.decode(outputs[0], skip_special_tokens=True)
     return response
 
