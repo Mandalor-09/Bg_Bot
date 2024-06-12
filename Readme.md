@@ -112,7 +112,9 @@ The app uses several helper functions defined in the `helper` module, including:
 **License**
 ---------
 
-This app is licensed under the MIT License. See `LICENSE` for details.**Contact**
+This app is licensed under the MIT License. See `LICENSE` for details.
+
+**Contact**
 ---------
 
 For any questions or issues, please contact Mandalor_09.
@@ -122,7 +124,7 @@ For any questions or issues, please contact Mandalor_09.
 
 Check out this demo video to see the app in action:
 
-[Demo Video](/bg_video_2.mp4)
+[![Demo Video](https://github.com/Mandalor-09/Bg_Bot/blob/main/thumbnail.png)](https://github.com/Mandalor-09/Bg_Bot/blob/main/bg_video_2.mp4)
 
 In this video, you'll see a demonstration of the app's features, including:
 
