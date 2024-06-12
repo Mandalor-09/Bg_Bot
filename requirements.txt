@@ -8,4 +8,4 @@ numpy
 datasets
 streamlit
 bitsandbytes
-"unsloth @ git+https://github.com/unslothai/unsloth.git"
+"unsloth @unsloth[cu121] git+https://github.com/unslothai/unsloth.git"
