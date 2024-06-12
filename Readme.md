@@ -116,3 +116,16 @@ This app is licensed under the MIT License. See `LICENSE` for details.**Contact*
 ---------
 
 For any questions or issues, please contact Mandalor_09.
+
+**Demo Video**
+-------------
+
+Check out this demo video to see the app in action:
+
+[Demo Video](/bg_video_2.mp4)
+
+In this video, you'll see a demonstration of the app's features, including:
+
+* Selecting a product and asking questions about it
+* Engaging in a conversation with the assistant
+* Bargaining with the assistant to negotiate prices or other terms
