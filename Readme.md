@@ -93,7 +93,7 @@ bitsandbytes
 To run the app, execute the following command in your terminal/command prompt:
 ```
 streamlit run app.py
-``
+```
 
 **Helper Functions**
 -------------------
