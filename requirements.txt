@@ -8,4 +8,8 @@ numpy
 datasets
 streamlit
 bitsandbytes
+<<<<<<< HEAD
 "unsloth[cu121] @ git+https://github.com/unslothai/unsloth.git"
+=======
+"unsloth[cu121] @ git+https://github.com/unslothai/unsloth.git"
+>>>>>>> 0efc4a539b2c9046238dbf517112652f576384cf
